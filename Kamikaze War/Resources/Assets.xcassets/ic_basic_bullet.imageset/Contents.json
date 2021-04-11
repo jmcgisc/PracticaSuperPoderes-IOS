@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_basic_bullet.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
